@@ -9,7 +9,7 @@
 
 ###
 
-<p align="left">- 🔭 I’m currently working on an SCP: Secret Laboratory custom item framework plugin<br><br>- 👯 I’m looking to collaborate on open-source C# tools and experimental game modding projects<br><br>- ⚡ Fun fact I love overengineering modding frameworks just for the challenge</p>
+<p align="left">I'm a very cool person, that's about it.</p>
 
 ###
 
